@@ -1,2 +1,2 @@
 # rv-automator-function
-idk
+This is written in Python 3 using functions.
